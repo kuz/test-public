@@ -1,1 +1,2 @@
 Meanwhile new cool functions were added to the public repo
+After some time we've added new functionality to the original files, that we would like to make public
