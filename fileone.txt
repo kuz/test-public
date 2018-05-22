@@ -1,3 +1,4 @@
 This public repostitory has some files
 And original functionality was updated as well
+Here we intoduce cool public update to contribute to community
 They contain valuable functionality
